@@ -1,4 +1,4 @@
-# sql-react-editor-
+# sql-react-editor
 
 This is a REACT SQL Editor built using ReactJs and Bootstrap.
 
