@@ -26,7 +26,11 @@ select * from products;
 select * from suppliers;
 select * from country;
 select * from dress;
+
+# Lighthouse report:
+<img width="773" alt="image" src="https://github.com/MrGanesh/sql-react-editor-/assets/37218217/3ff07623-7781-43dd-81b8-216b5c29b78a">
  
+
 # Steps to run this app:
 
 # yarn start
