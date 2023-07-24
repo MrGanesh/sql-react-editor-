@@ -1,7 +1,7 @@
 # sql-react-editor-
 
 This is a REACT SQL Editor built using ReactJs and Bootstrap.
-Homepage
+
 
 # Demo
 Try out the website : https://gtmsmy.csb.app/
